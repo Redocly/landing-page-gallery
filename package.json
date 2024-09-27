@@ -1,0 +1,15 @@
+{
+  "name": "landing-page-gallery",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx @redocly/cli@latest preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@redocly/realm": "^0.104.0"
+  }
+}

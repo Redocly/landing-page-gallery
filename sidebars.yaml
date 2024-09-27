@@ -1,0 +1,7 @@
+- page: index.md
+  label: Home
+- separator: Landing pages
+- page: mock-saas/index.page.tsx
+  label: Mock SaaS example
+- page: legacy-portal/training.page.tsx
+  label: Portal training example
