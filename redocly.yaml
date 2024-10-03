@@ -3,13 +3,13 @@ logo:
   link: /
 navbar:
   items:
-    - page: mock-saas/index.page.tsx
-      label: Mock SaaS page
+    - page: example-saas/index.page.tsx
+      label: Example SaaS page
     - page: legacy-portal/training.page.tsx
       label: Legacy portal page
 footer:
   items:
-    - page: mock-saas/index.page.tsx
-      label: Mock SaaS page
+    - page: example-saas/index.page.tsx
+      label: Example SaaS page
     - page: legacy-portal/training.page.tsx
       label: Legacy portal page

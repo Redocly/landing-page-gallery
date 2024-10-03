@@ -1,18 +1,20 @@
-## What/Why/How?
+## Pull request description
+<!-- Concise description of change or page -->
 
-## Reference
+**Related issues (if any):**
+<!-- Use "closes #__" syntax-->
 
-## Testing
+## Type of change
 
-## Screenshots (optional)
+- [ ] New landing page example
+- [ ] Change(s) to existing landing page
+- [ ] Repository change
 
-## Check yourself
+## Checklist
 
-- [ ] Code changed? - Tested with redoc/reference-docs/workflows (internal)
-- [ ] All new/updated code is covered with tests
-- [ ] New package installed? - Tested in different environments (browser/node)
+- [ ] (New page only) thumbnail and description added to `README.md`
+- [ ] Related issue linked in PR
+- [ ] Tested page in local development server
 
-## Security
-
-- [ ] Security impact of change has been considered
-- [ ] Code follows company security practices and guidelines
+## Additional context
+<!-- Include screenshots or additional context as needed -->

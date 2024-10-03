@@ -13,11 +13,11 @@ The gallery has the following example pages available:
 <div style="display: flex; align-items: start; margin-bottom: 10px;">
   <img 
     src="images/d.png"
-    alt="Mock SaaS landing page thumbnail"
+    alt="Example SaaS landing page thumbnail"
     style="max-width: 360px; margin-right: 20px;"
   />
   <div>
-    <h4>Mock SaaS landing page</h4>
+    <h4>Example SaaS landing page</h4>
     <p>
       A sleek, modern landing page for a SaaS product. Features a full-width hero with CTA, highlighted features, full-width quote, pricing plans, and email subscription.
     </p>
@@ -25,7 +25,7 @@ The gallery has the following example pages available:
       <b>Tools:</b> React, styled-components
     </p>
     <p>
-      <a href="mock-saas/index.page.tsx">View source code</a>
+      <a href="example-saas/index.page.tsx">View source code</a>
     </p>
   </div>
 </div>
