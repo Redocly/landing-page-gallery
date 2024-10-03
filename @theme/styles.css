@@ -1,0 +1,3 @@
+:root.dark nav img {
+  filter: invert(1);
+}
