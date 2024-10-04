@@ -12,7 +12,7 @@ The gallery has the following example pages available:
 
 <div style="display: flex; align-items: start; margin-bottom: 10px;">
   <img 
-    src="images/d.png"
+    src="images/example-saas-thumbnail.png"
     alt="Example SaaS landing page thumbnail"
     style="max-width: 360px; margin-right: 20px;"
   />
@@ -32,7 +32,7 @@ The gallery has the following example pages available:
 
 <div style="display: flex; align-items: start; margin-bottom: 10px;">
   <img 
-    src="src/pages/product-overview/thumbnail.png"
+    src="images/training-portal-thumbnail.png"
     alt="Training portal landing page thumbnail"
     style="max-width: 400px; margin-right: 20px;"
   />
