@@ -10,45 +10,50 @@ The examples are designed to help you learn how to create custom React pages in 
 
 The gallery has the following example pages available:
 
-<div style="display: flex; align-items: start; margin-bottom: 10px;">
-  <img 
-    src="images/example-saas-thumbnail.png"
-    alt="Example SaaS landing page thumbnail"
-    style="max-width: 360px; margin-right: 20px;"
-  />
-  <div>
-    <h4>Example SaaS landing page</h4>
-    <p>
-      A sleek, modern landing page for a SaaS product. Features a full-width hero with CTA, highlighted features, full-width quote, pricing plans, and email subscription.
-    </p>
-    <p>
-      <b>Tools:</b> React, styled-components
-    </p>
-    <p>
-      <a href="example-saas/index.page.tsx">View source code</a>
-    </p>
-  </div>
-</div>
-
-<div style="display: flex; align-items: start; margin-bottom: 10px;">
-  <img 
-    src="images/training-portal-thumbnail.png"
-    alt="Training portal landing page thumbnail"
-    style="max-width: 400px; margin-right: 20px;"
-  />
-    <div>
-    <h4>Redocly training portal landing page</h4>
-    <p>
-      An example landing page built for training and onboarding. Features hero with gradient background and responsive content cards with icons.
-    </p>
-    <p>
-      <b>Tools:</b> React, styled-components
-    </p>
-    <p>
-      <a href="legacy-portal/training.page.tsx">View source code</a>
-    </p>
-  </div>
-</div>
+<table>
+  <thead>
+    <tr>
+      <th>Screenshot</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img 
+          src="images/example-saas-thumbnail.png"
+          alt="Example SaaS landing page thumbnail"
+          style="max-width: 360px; margin-right: 20px"
+        />
+      </td>
+      <td>
+        <h4>Example SaaS landing page</h4>
+        <p>
+          A sleek, modern landing page for a SaaS product. Features a full-width hero with CTA, highlighted features, full-width quote, pricing plans, and email subscription.
+        </p>
+        <p><b>Tools:</b> React, styled-components</p>
+        <p><a href="example-saas/index.page.tsx">View source code</a></p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img 
+          src="images/training-portal-thumbnail.png"
+          alt="Training portal landing page thumbnail"
+          style="max-width: 400px; margin-right: 20px;"
+        />
+      </td>
+      <td>
+        <h4>Redocly training portal landing page</h4>
+        <p>
+          An example landing page built for training and onboarding. Features hero with gradient background and responsive content cards with icons.
+        </p>
+        <p><b>Tools:</b> React, styled-components</p>
+        <p><a href="legacy-portal/training.page.tsx">View source code</a></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Table of contents
 
