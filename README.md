@@ -82,7 +82,7 @@ Follow these steps to run the development server and preview the landing pages:
 
 ## Project structure
 
-Each landing page is self-contained in it's own folder, including any components or resources needed for that page.
+Each landing page is self-contained in its own folder, including any components or resources needed for that page.
 
 Dependencies are managed from the central `package.json` file.
 
