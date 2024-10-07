@@ -38,19 +38,19 @@ export default function () {
         </SectionHeader>
         <Tiles>
           <Tile to="#" icon={<img src={require('images/rock.svg')} />} header="Rock">
-            Lorem ipsum dolor sit amet, pri putent oportere quaerendum in, ea mea justo invenire aliquando. Usu modo
-            suavitate ea. Et sed labitur epicurei adipiscing. Nibh zril labitur an usu.Lorem ipsum dolor sit amet, pri
-            putent oportere quaerendum in, ea mea justo invenire aliquando. Usu modo suavitate ea. Et sed labitur
-            epicurei adipiscing. Nibh zril labitur an usu.Lorem ipsum dolor sit amet, pri putent oportere quaerendum in,
-            ea mea justo invenire aliquando. Usu modo suavitate ea. Et sed labitur epicurei adipiscing.
+            Rock sits mighty, proud,<br />
+            "Paper beat me?" Rock laughs aloud,<br />
+            Guess I'll roll downhill.
           </Tile>
           <Tile to="#" icon={<img src={require('images/paper.png')} />} header="Paper">
-            Lorem ipsum dolor sit amet, pri putent oportere quaerendum in, ea mea justo invenire aliquando. Usu modo
-            suavitate ea. Et sed labitur epicurei adipiscing. Nibh zril labitur an usu.
+            Paper flutters by, <br />
+            Whispering, "I cover rock",<br />
+            Origami dreams.
           </Tile>
           <Tile to="#" icon={<img src={require('images/scissors.png')} />} header="Scissors">
-            Lorem ipsum dolor sit amet, pri putent oportere quaerendum in, ea mea justo invenire aliquando. Usu modo
-            suavitate ea. Et sed labitur epicurei adipiscing. Nibh zril labitur an usu.
+            Snip, snip, scissors sing,<br />
+            Chasing paper all day long,<br />
+            Avoiding rough rocks.
           </Tile>
         </Tiles>
         <SectionHeader>
@@ -183,7 +183,6 @@ const IconWrapper = styled.div`
   width: 90px;
   object-fit: contain;
   background-color: var(--color-primary);
-  margin-bottom: 15px;
   img,
   svg {
     width: 100%;

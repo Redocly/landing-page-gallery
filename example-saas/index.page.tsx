@@ -14,7 +14,7 @@ export default function() {
   return (
     <>
       <HeroSection>
-        <h1>Welcome to Mock SaaS</h1>
+        <h1>Welcome to Example SaaS</h1>
         <p>The product isn't real, but the landing page is</p>
         <Button>Get Started</Button>
       </HeroSection>
