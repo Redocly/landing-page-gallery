@@ -10,6 +10,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@redocly/realm": "^0.104.0"
+    "@redocly/realm": "*"
   }
 }
