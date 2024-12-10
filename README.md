@@ -74,9 +74,7 @@ Follow these steps to run the development server and preview the landing pages:
 
 1. Navigate to the project folder.
 
-1. Install project dependencies: `npm install`.
-
-1. Start the development server: `npm run start` (or `npx @redocly/cli@latest preview`)
+1. Start the development server: `npx @redocly/cli@latest preview`
 
 1. Click the **Preview URL** in the console to open project in browser.
 
